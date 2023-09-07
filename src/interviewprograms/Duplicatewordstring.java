@@ -16,7 +16,7 @@ public class Duplicatewordstring {
 				if(word[i].equals(word[j]))
 				{
 					c++;
-					word[j]="0";
+					word[j]="0";//pull from git_hub
 				}
 			}
 		
