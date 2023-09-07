@@ -27,6 +27,7 @@ public class Anagramstring {
 			else
 			{
 				System.out.println("not anagram");
+				System.out.println("pull from github");
 			}
 		}
 
